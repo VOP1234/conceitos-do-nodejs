@@ -3,7 +3,7 @@ Conceitos do Node.js
 </h1>
 
 <h4 align="center">
-  🚀 Testing some backend node.js functionality
+  🚀 Testing some backend Node.js functionality
 </h4>
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
