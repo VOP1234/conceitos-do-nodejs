@@ -16,7 +16,7 @@ Conceitos do Node.js
 
 ## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+This project was developed with the following technology:
 
 - [Node.js](https://nodejs.org/en/)
 
