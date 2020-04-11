@@ -3,8 +3,12 @@ Conceitos do Node.js
 </h1>
 
 <h4 align="center">
-  🚀 Testing some backend Node.js functionality
+  🚀 Testing some backend node.js functionality
 </h4>
+  
+![GitHub top language](https://img.shields.io/github/languages/top/vop1234/conceitos-do-nodejs)  ![GitHub language count](https://img.shields.io/github/languages/count/vop1234/conceitos-do-nodejs)
+
+
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +20,7 @@ Conceitos do Node.js
 
 ## :rocket: Tecnologias
 
-This project was developed with the following technology:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 
